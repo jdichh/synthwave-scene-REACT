@@ -3,6 +3,8 @@
 
 UPDATE (8/22/2023): This is the "new" version. The "old" version made only with HTML/JS can be found [here](https://github.com/jdichh/synthwave-scene).
 
+[Development Footage](https://drive.google.com/drive/folders/1T71kzlu3KbTG4J0MR5YbCOmdzzKyOBuX?usp=sharing)
+
 ## Project setup
 ```
 pnpm install
