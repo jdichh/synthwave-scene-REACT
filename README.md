@@ -6,6 +6,7 @@ UPDATE (8/22/2023): This is the "new" version. The "old" version made only with 
 [Development Footage](https://drive.google.com/drive/folders/1T71kzlu3KbTG4J0MR5YbCOmdzzKyOBuX?usp=sharing)
 
 ## Project setup
+If you want to try this out on your own, download the source code and run these commands in VSCode/VSCodium.
 ```
 pnpm install
 ```
