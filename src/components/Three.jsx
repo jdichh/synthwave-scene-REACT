@@ -205,7 +205,7 @@ const Three = () => {
 
     // Clock() tracks the elapsed time since the loop started.
     const clock = new THREE.Clock();
-    const animationSpeed = 0.08;
+    const animationSpeed = 0.05;
 
     const updateFrame = () => {
       // stats.begin()

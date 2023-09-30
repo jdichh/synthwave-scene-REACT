@@ -4,7 +4,7 @@ import MusicControls from "./components/MusicControls.jsx";
 
 const App = () => {
   const canvasRef = useRef();
-  const audio = new Audio("./assets/music/home - sunshower.mp3");
+  const audio = new Audio("./assets/music/almondcruise.mp3");
   audio.preload = "auto";
   return (
     <>
